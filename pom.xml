@@ -8,7 +8,7 @@
         <version>1.0.3</version>
     </parent>
 
-    <groupId>uk.ac.ebi.pwp.widgets</groupId>
+    <groupId>org.reactome.pwp.widgets</groupId>
     <artifactId>quadtree</artifactId>
     <version>1.3.4-SNAPSHOT</version>
     <packaging>jar</packaging>
