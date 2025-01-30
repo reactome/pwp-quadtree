@@ -1,7 +1,7 @@
 package uk.ac.ebi.pwp.structures.quadtree.client;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 class QuadItem<T extends QuadTreeBox> extends Box  {
     private T value;

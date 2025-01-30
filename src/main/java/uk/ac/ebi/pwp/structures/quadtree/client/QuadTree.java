@@ -3,7 +3,7 @@ package uk.ac.ebi.pwp.structures.quadtree.client;
 import java.util.Set;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class QuadTree<T extends QuadTreeBox> {
 
