@@ -1,7 +1,7 @@
 package uk.ac.ebi.pwp.structures.quadtree.client;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class Box implements QuadTreeBox {
     private double minX;

@@ -8,7 +8,7 @@ import uk.ac.ebi.pwp.structures.quadtree.client.QuadTree;
 import java.util.Set;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class QuadTree2DTest extends TestCase {
 
